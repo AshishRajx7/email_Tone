@@ -11,7 +11,7 @@ An LLM-powered Gradio web app that rewrites professional emails in different ton
 ##  Live Demo
  [Try the app here!](https://huggingface.co/spaces/RonnieX7/email-tone-rewriter)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python
 - Gradio
 - Hugging Face Inference API
